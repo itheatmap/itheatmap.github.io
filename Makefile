@@ -19,4 +19,4 @@ webpack:
 install: up npm webpack
 
 view:
-	google-chrome docs/index.html
+	google-chrome index.html
