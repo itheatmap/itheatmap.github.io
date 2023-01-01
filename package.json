@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/itheatmap/itheatmap.github.io#README",
   "devDependencies": {
-    "ts-loader": "^5.3.3",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.2.4",
-    "webpack": "^4.5.0",
-    "webpack-cli": "^2.1.5"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "leaflet": "^1.5.1",
